@@ -106,7 +106,7 @@ std::string get_codon(const char c)
     case 'X': return "TAA";
     //Startcodon
     case ' ': return "ATG";
-    default: return "";
+    default: return "   ";
   }
 }
 
@@ -119,7 +119,7 @@ std::string get_codons(const std::string& s)
 
 std::vector<std::string> get_group_name() noexcept
 {
-  return { "Theoretical", "Evolutionaryl", "Community", "Ecology" };
+  return { "Theoreticaly", "Evolutionary", "Community", "Ecology" };
 }
 
 std::vector<std::string> get_group_name_uppercase() noexcept
