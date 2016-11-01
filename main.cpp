@@ -119,7 +119,7 @@ std::string get_codons(const std::string& s)
 
 std::vector<std::string> get_group_name() noexcept
 {
-  return { "Theoreticaly", "Evolutionary", "Community", "Ecology" };
+  return { "Theoreticaly", "Evolutionary", "  Community", " Ecology " };
 }
 
 std::vector<std::string> get_group_name_uppercase() noexcept
@@ -143,6 +143,7 @@ int get_distance(const std::string& s, const std::string& t)
   int distance{max_size - min_size};
   for (int i=0; i!=min_size; ++i)
   {
+    if (s[i] == ' ' && t[i] == ' ') continue;
     distance += s[i] != t[i] ? 1 : 0;
   }
   return distance;
@@ -159,8 +160,12 @@ bool is_okay(const std::vector<std::string>& v)
   return
        get_distance(a, b) < get_distance(a, c)
     && get_distance(a, b) < get_distance(a, d)
+    && get_distance(a, b) < get_distance(b, c)
+    && get_distance(a, b) < get_distance(b, d)
     && get_distance(c, d) < get_distance(c, a)
     && get_distance(c, d) < get_distance(c, b)
+    && get_distance(c, d) < get_distance(d, a)
+    && get_distance(c, d) < get_distance(d, b)
   ;
 }
 
@@ -178,8 +183,12 @@ int main()
   std::cout << std::boolalpha
     << (get_distance(a, b) < get_distance(a, c)) << '\n'
     << (get_distance(a, b) < get_distance(a, d)) << '\n'
+    << (get_distance(a, b) < get_distance(b, c)) << '\n'
+    << (get_distance(a, b) < get_distance(b, d)) << '\n'
     << (get_distance(c, d) < get_distance(c, a)) << '\n'
     << (get_distance(c, d) < get_distance(c, b)) << '\n'
+    << (get_distance(c, d) < get_distance(d, a)) << '\n'
+    << (get_distance(c, d) < get_distance(d, b)) << '\n'
   ;
   std::cout << "CONCLUSION: " << is_okay(v) << '\n';
 }
