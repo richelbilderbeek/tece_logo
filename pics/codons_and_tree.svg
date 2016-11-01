@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="1151"
      id="namedview772"
      showgrid="false"
-     inkscape:zoom="0.73727667"
-     inkscape:cx="211.18409"
-     inkscape:cy="-199.70311"
+     inkscape:zoom="2.9491067"
+     inkscape:cx="841.85041"
+     inkscape:cy="-41.941409"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1042,12 +1042,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect484" />
-  <text
-     x="88.746811"
-     y="81.000015"
-     font-size="20"
-     id="text486"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="113.74681"
      y="61.000015"
@@ -1055,12 +1049,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect488" />
-  <text
-     x="118.74681"
-     y="81.000015"
-     font-size="20"
-     id="text490"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="143.74681"
      y="61.000015"
@@ -1068,12 +1056,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect492" />
-  <text
-     x="148.74681"
-     y="81.000015"
-     font-size="20"
-     id="text494"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="173.74681"
      y="61.000015"
@@ -1081,12 +1063,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect496" />
-  <text
-     x="178.74681"
-     y="81.000015"
-     font-size="20"
-     id="text498"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="203.74681"
      y="61.000015"
@@ -1094,12 +1070,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect500" />
-  <text
-     x="208.74681"
-     y="81.000015"
-     font-size="20"
-     id="text502"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="233.74681"
      y="61.000015"
@@ -1107,12 +1077,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect504" />
-  <text
-     x="238.74681"
-     y="81.000015"
-     font-size="20"
-     id="text506"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="263.7468"
      y="61.000015"
@@ -1471,12 +1435,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect616" />
-  <text
-     x="1078.7468"
-     y="81.000015"
-     font-size="20"
-     id="text618"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="1103.7468"
      y="61.000015"
@@ -1484,12 +1442,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect620" />
-  <text
-     x="1108.7468"
-     y="81.000015"
-     font-size="20"
-     id="text622"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="1133.7468"
      y="61.000015"
@@ -1497,12 +1449,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect624" />
-  <text
-     x="1138.7468"
-     y="81.000015"
-     font-size="20"
-     id="text626"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="83.746811"
      y="91.000015"
@@ -1510,12 +1456,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect628" />
-  <text
-     x="88.746811"
-     y="111.00002"
-     font-size="20"
-     id="text630"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="113.74681"
      y="91.000015"
@@ -1523,12 +1463,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect632" />
-  <text
-     x="118.74681"
-     y="111.00002"
-     font-size="20"
-     id="text634"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="143.74681"
      y="91.000015"
@@ -1536,12 +1470,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect636" />
-  <text
-     x="148.74681"
-     y="111.00002"
-     font-size="20"
-     id="text638"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="173.74681"
      y="91.000015"
@@ -1822,12 +1750,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect724" />
-  <text
-     x="808.74677"
-     y="111.00002"
-     font-size="20"
-     id="text726"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="833.74683"
      y="91.000015"
@@ -1835,12 +1757,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect728" />
-  <text
-     x="838.74683"
-     y="111.00002"
-     font-size="20"
-     id="text730"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="863.74683"
      y="91.000015"
@@ -1848,12 +1764,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect732" />
-  <text
-     x="868.74683"
-     y="111.00002"
-     font-size="20"
-     id="text734"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="893.74683"
      y="91.000015"
@@ -1861,12 +1771,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect736" />
-  <text
-     x="898.74683"
-     y="111.00002"
-     font-size="20"
-     id="text738"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="923.74683"
      y="91.000015"
@@ -1874,12 +1778,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect740" />
-  <text
-     x="928.74683"
-     y="111.00002"
-     font-size="20"
-     id="text742"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="953.74683"
      y="91.000015"
@@ -1887,12 +1785,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect744" />
-  <text
-     x="958.74683"
-     y="111.00002"
-     font-size="20"
-     id="text746"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="983.74683"
      y="91.000015"
@@ -1900,12 +1792,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect748" />
-  <text
-     x="988.74683"
-     y="111.00002"
-     font-size="20"
-     id="text750"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="1013.7468"
      y="91.000015"
@@ -1913,12 +1799,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect752" />
-  <text
-     x="1018.7468"
-     y="111.00002"
-     font-size="20"
-     id="text754"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="1043.7468"
      y="91.000015"
@@ -1926,12 +1806,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect756" />
-  <text
-     x="1048.7468"
-     y="111.00002"
-     font-size="20"
-     id="text758"
-     style="font-size:20px;font-family:Verdana">G</text>
   <rect
      x="1073.7468"
      y="91.000015"
@@ -1939,12 +1813,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect760" />
-  <text
-     x="1078.7468"
-     y="111.00002"
-     font-size="20"
-     id="text762"
-     style="font-size:20px;font-family:Verdana">A</text>
   <rect
      x="1103.7468"
      y="91.000015"
@@ -1952,12 +1820,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect764" />
-  <text
-     x="1108.7468"
-     y="111.00002"
-     font-size="20"
-     id="text766"
-     style="font-size:20px;font-family:Verdana">T</text>
   <rect
      x="1133.7468"
      y="91.000015"
@@ -1965,12 +1827,6 @@
      height="30"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect768" />
-  <text
-     x="1138.7468"
-     y="111.00002"
-     font-size="20"
-     id="text770"
-     style="font-size:20px;font-family:Verdana">G</text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 83.91944,15.765029 c -39.4051,0 -39.4051,0 -39.4051,0"

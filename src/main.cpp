@@ -107,7 +107,7 @@ std::string get_codon(const char c)
     //Stopcodon
     case 'X': return "TAA";
     //Startcodon
-    case ' ': return "ATG";
+    case ' ': return "   ";
     default: return "   ";
   }
 }
