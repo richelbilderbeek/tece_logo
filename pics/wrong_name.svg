@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="500"
-   width="1500"
+   height="162"
+   width="482"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="wrong_name_and_tree.svg">
+   sodipodi:docname="wrong_name.svg">
   <metadata
      id="metadata776">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,841 +41,776 @@
      id="namedview772"
      showgrid="false"
      inkscape:zoom="1.4745533"
-     inkscape:cx="431.71204"
-     inkscape:cy="241.01488"
+     inkscape:cx="157.31221"
+     inkscape:cy="-27.122251"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <rect
-     x="418.79657"
-     y="70.862862"
+     x="1"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect4" />
   <text
-     x="423.79657"
-     y="100.86286"
+     x="6"
+     y="31"
      font-size="30"
      id="text6"
      style="font-size:30px;font-family:Verdana">T</text>
   <rect
-     x="458.79657"
-     y="70.862862"
+     x="41"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect8" />
   <text
-     x="463.79657"
-     y="100.86286"
+     x="46"
+     y="31"
      font-size="30"
      id="text10"
      style="font-size:30px;font-family:Verdana">h</text>
   <rect
-     x="498.79657"
-     y="70.862862"
+     x="81"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect12" />
   <text
-     x="503.79657"
-     y="100.86286"
+     x="86"
+     y="31"
      font-size="30"
      id="text14"
      style="font-size:30px;font-family:Verdana">e</text>
   <rect
-     x="538.79657"
-     y="70.862862"
+     x="121"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect16" />
   <text
-     x="543.79657"
-     y="100.86286"
+     x="126"
+     y="31"
      font-size="30"
      id="text18"
      style="font-size:30px;font-family:Verdana">o</text>
   <rect
-     x="578.79657"
-     y="70.862862"
+     x="161"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect20" />
   <text
-     x="583.79657"
-     y="100.86286"
+     x="166"
+     y="31"
      font-size="30"
      id="text22"
      style="font-size:30px;font-family:Verdana">r</text>
   <rect
-     x="618.79657"
-     y="70.862862"
+     x="201"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect24" />
   <text
-     x="623.79657"
-     y="100.86286"
+     x="206"
+     y="31"
      font-size="30"
      id="text26"
      style="font-size:30px;font-family:Verdana">e</text>
   <rect
-     x="658.79657"
-     y="70.862862"
+     x="241"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect28" />
   <text
-     x="663.79657"
-     y="100.86286"
+     x="246"
+     y="31"
      font-size="30"
      id="text30"
      style="font-size:30px;font-family:Verdana">t</text>
   <rect
-     x="698.79657"
-     y="70.862862"
+     x="281"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect32" />
   <text
-     x="703.79657"
-     y="100.86286"
+     x="286"
+     y="31"
      font-size="30"
      id="text34"
      style="font-size:30px;font-family:Verdana">i</text>
   <rect
-     x="738.79657"
-     y="70.862862"
+     x="321"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect36" />
   <text
-     x="743.79657"
-     y="100.86286"
+     x="326"
+     y="31"
      font-size="30"
      id="text38"
      style="font-size:30px;font-family:Verdana">c</text>
   <rect
-     x="778.79657"
-     y="70.862862"
+     x="361"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect40" />
   <text
-     x="783.79657"
-     y="100.86286"
+     x="366"
+     y="31"
      font-size="30"
      id="text42"
      style="font-size:30px;font-family:Verdana">a</text>
   <rect
-     x="818.79657"
-     y="70.862862"
+     x="401"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect44" />
   <text
-     x="823.79657"
-     y="100.86286"
+     x="406"
+     y="31"
      font-size="30"
      id="text46"
      style="font-size:30px;font-family:Verdana">l</text>
   <rect
-     x="858.79657"
-     y="70.862862"
+     x="441"
+     y="1"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect48" />
   <rect
-     x="418.79657"
-     y="110.86286"
+     x="1"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect52" />
   <text
-     x="423.79657"
-     y="140.86285"
+     x="6"
+     y="70.999992"
      font-size="30"
      id="text54"
      style="font-size:30px;font-family:Verdana">E</text>
   <rect
-     x="458.79657"
-     y="110.86286"
+     x="41"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect56" />
   <text
-     x="463.79657"
-     y="140.86285"
+     x="46"
+     y="70.999992"
      font-size="30"
      id="text58"
      style="font-size:30px;font-family:Verdana">v</text>
   <rect
-     x="498.79657"
-     y="110.86286"
+     x="81"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect60" />
   <text
-     x="503.79657"
-     y="140.86285"
+     x="86"
+     y="70.999992"
      font-size="30"
      id="text62"
      style="font-size:30px;font-family:Verdana">o</text>
   <rect
-     x="538.79657"
-     y="110.86286"
+     x="121"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect64" />
   <text
-     x="543.79657"
-     y="140.86285"
+     x="126"
+     y="70.999992"
      font-size="30"
      id="text66"
      style="font-size:30px;font-family:Verdana">l</text>
   <rect
-     x="578.79657"
-     y="110.86286"
+     x="161"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect68" />
   <text
-     x="583.79657"
-     y="140.86285"
+     x="166"
+     y="70.999992"
      font-size="30"
      id="text70"
      style="font-size:30px;font-family:Verdana">u</text>
   <rect
-     x="618.79657"
-     y="110.86286"
+     x="201"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect72" />
   <text
-     x="623.79657"
-     y="140.86285"
+     x="206"
+     y="70.999992"
      font-size="30"
      id="text74"
      style="font-size:30px;font-family:Verdana">t</text>
   <rect
-     x="658.79657"
-     y="110.86286"
+     x="241"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect76" />
   <text
-     x="663.79657"
-     y="140.86285"
+     x="246"
+     y="70.999992"
      font-size="30"
      id="text78"
      style="font-size:30px;font-family:Verdana">i</text>
   <rect
-     x="698.79657"
-     y="110.86286"
+     x="281"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect80" />
   <text
-     x="703.79657"
-     y="140.86285"
+     x="286"
+     y="70.999992"
      font-size="30"
      id="text82"
      style="font-size:30px;font-family:Verdana">o</text>
   <rect
-     x="738.79657"
-     y="110.86286"
+     x="321"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect84" />
   <text
-     x="743.79657"
-     y="140.86285"
+     x="326"
+     y="70.999992"
      font-size="30"
      id="text86"
      style="font-size:30px;font-family:Verdana">n</text>
   <rect
-     x="778.79657"
-     y="110.86286"
+     x="361"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect88" />
   <text
-     x="783.79657"
-     y="140.86285"
+     x="366"
+     y="70.999992"
      font-size="30"
      id="text90"
      style="font-size:30px;font-family:Verdana">a</text>
   <rect
-     x="818.79657"
-     y="110.86286"
+     x="401"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect92" />
   <text
-     x="823.79657"
-     y="140.86285"
+     x="406"
+     y="70.999992"
      font-size="30"
      id="text94"
      style="font-size:30px;font-family:Verdana">r</text>
   <rect
-     x="858.79657"
-     y="110.86286"
+     x="441"
+     y="41"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect96" />
   <text
-     x="863.79657"
-     y="140.86285"
+     x="446"
+     y="70.999992"
      font-size="30"
      id="text98"
      style="font-size:30px;font-family:Verdana">y</text>
   <rect
-     x="418.79657"
-     y="150.86285"
+     x="1"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect100" />
   <text
-     x="423.79657"
-     y="180.86287"
+     x="6"
+     y="111.00001"
      font-size="30"
      id="text102"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="458.79657"
-     y="150.86285"
+     x="41"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect104" />
   <text
-     x="463.79657"
-     y="180.86287"
+     x="46"
+     y="111.00001"
      font-size="30"
      id="text106"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="498.79657"
-     y="150.86285"
+     x="81"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect108" />
   <text
-     x="503.79657"
-     y="180.86287"
+     x="7.332108"
+     y="112.35635"
      font-size="30"
      id="text110"
      style="font-size:30px;font-family:Verdana">C</text>
   <rect
-     x="538.79657"
-     y="150.86285"
+     x="121"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect112" />
   <text
-     x="543.79657"
-     y="180.86287"
+     x="47.332108"
+     y="112.35635"
      font-size="30"
      id="text114"
      style="font-size:30px;font-family:Verdana">o</text>
   <rect
-     x="578.79657"
-     y="150.86285"
+     x="161"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect116" />
   <text
-     x="583.79657"
-     y="180.86287"
+     x="87.332108"
+     y="112.35635"
      font-size="30"
      id="text118"
      style="font-size:30px;font-family:Verdana">m</text>
   <rect
-     x="618.79657"
-     y="150.86285"
+     x="201"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect120" />
   <text
-     x="623.79657"
-     y="180.86287"
+     x="127.33211"
+     y="112.35635"
      font-size="30"
      id="text122"
      style="font-size:30px;font-family:Verdana">m</text>
   <rect
-     x="658.79657"
-     y="150.86285"
+     x="241"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect124" />
   <text
-     x="663.79657"
-     y="180.86287"
+     x="167.33211"
+     y="112.35635"
      font-size="30"
      id="text126"
      style="font-size:30px;font-family:Verdana">u</text>
   <rect
-     x="698.79657"
-     y="150.86285"
+     x="281"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect128" />
   <text
-     x="703.79657"
-     y="180.86287"
+     x="207.33211"
+     y="112.35635"
      font-size="30"
      id="text130"
      style="font-size:30px;font-family:Verdana">n</text>
   <rect
-     x="738.79657"
-     y="150.86285"
+     x="321"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect132" />
   <text
-     x="743.79657"
-     y="180.86287"
+     x="247.33211"
+     y="112.35635"
      font-size="30"
      id="text134"
      style="font-size:30px;font-family:Verdana">i</text>
   <rect
-     x="778.79657"
-     y="150.86285"
+     x="361"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect136" />
   <text
-     x="783.79657"
-     y="180.86287"
+     x="287.33212"
+     y="112.35635"
      font-size="30"
      id="text138"
      style="font-size:30px;font-family:Verdana">t</text>
   <rect
-     x="818.79657"
-     y="150.86285"
+     x="401"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect140" />
   <text
-     x="823.79657"
-     y="180.86287"
+     x="327.33212"
+     y="112.35635"
      font-size="30"
      id="text142"
      style="font-size:30px;font-family:Verdana">y</text>
   <rect
-     x="858.79657"
-     y="150.86285"
+     x="441"
+     y="80.999992"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect144" />
   <text
-     x="863.79657"
-     y="180.86287"
+     x="446"
+     y="111.00001"
      font-size="30"
      id="text146"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="418.79657"
-     y="190.86287"
+     x="1"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect148" />
   <text
-     x="423.79657"
-     y="220.86287"
+     x="6"
+     y="151"
      font-size="30"
      id="text150"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="458.79657"
-     y="190.86287"
+     x="41"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect152" />
   <text
-     x="463.79657"
-     y="220.86287"
+     x="6.6660538"
+     y="149.64366"
      font-size="30"
      id="text154"
      style="font-size:30px;font-family:Verdana">E</text>
   <rect
-     x="498.79657"
-     y="190.86287"
+     x="81"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect156" />
   <text
-     x="503.79657"
-     y="220.86287"
+     x="46.666054"
+     y="149.64366"
      font-size="30"
      id="text158"
      style="font-size:30px;font-family:Verdana">c</text>
   <rect
-     x="538.79657"
-     y="190.86287"
+     x="121"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect160" />
   <text
-     x="543.79657"
-     y="220.86287"
+     x="86.666054"
+     y="149.64366"
      font-size="30"
      id="text162"
      style="font-size:30px;font-family:Verdana">o</text>
   <rect
-     x="578.79657"
-     y="190.86287"
+     x="161"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect164" />
   <text
-     x="583.79657"
-     y="220.86287"
+     x="126.66605"
+     y="149.64366"
      font-size="30"
      id="text166"
      style="font-size:30px;font-family:Verdana">l</text>
   <rect
-     x="618.79657"
-     y="190.86287"
+     x="201"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect168" />
   <text
-     x="623.79657"
-     y="220.86287"
+     x="166.66606"
+     y="149.64366"
      font-size="30"
      id="text170"
      style="font-size:30px;font-family:Verdana">o</text>
   <rect
-     x="658.79657"
-     y="190.86287"
+     x="241"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect172" />
   <text
-     x="663.79657"
-     y="220.86287"
+     x="206.66606"
+     y="149.64366"
      font-size="30"
      id="text174"
      style="font-size:30px;font-family:Verdana">g</text>
   <rect
-     x="698.79657"
-     y="190.86287"
+     x="281"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect176" />
   <text
-     x="703.79657"
-     y="220.86287"
+     x="246.66606"
+     y="149.64366"
      font-size="30"
      id="text178"
      style="font-size:30px;font-family:Verdana">y</text>
   <rect
-     x="738.79657"
-     y="190.86287"
+     x="321"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect180" />
   <text
-     x="743.79657"
-     y="220.86287"
+     x="326"
+     y="151"
      font-size="30"
      id="text182"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="778.79657"
-     y="190.86287"
+     x="361"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect184" />
   <text
-     x="783.79657"
-     y="220.86287"
+     x="366"
+     y="151"
      font-size="30"
      id="text186"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="818.79657"
-     y="190.86287"
+     x="401"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect188" />
   <text
-     x="823.79657"
-     y="220.86287"
+     x="406"
+     y="151"
      font-size="30"
      id="text190"
      style="font-size:30px;font-family:Verdana" />
   <rect
-     x="858.79657"
-     y="190.86287"
+     x="441"
+     y="121.00001"
      width="40"
      height="40"
      style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
      id="rect192" />
   <text
-     x="863.79657"
-     y="220.86287"
+     x="446"
+     y="151"
      font-size="30"
      id="text194"
      style="font-size:30px;font-family:Verdana" />
   <text
-     x="693.79657"
-     y="300.86288"
+     x="276"
+     y="231.00003"
      font-size="20"
      id="text234"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="723.79657"
-     y="300.86288"
+     x="306"
+     y="231.00003"
      font-size="20"
      id="text238"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="753.79657"
-     y="300.86288"
+     x="336"
+     y="231.00003"
      font-size="20"
      id="text242"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="603.79657"
-     y="330.86288"
+     x="186"
+     y="261.00003"
      font-size="20"
      id="text366"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="633.79657"
-     y="330.86288"
+     x="216"
+     y="261.00003"
      font-size="20"
      id="text370"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="663.79657"
-     y="330.86288"
+     x="246"
+     y="261.00003"
      font-size="20"
      id="text374"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="783.79657"
-     y="330.86288"
+     x="366"
+     y="261.00003"
      font-size="20"
      id="text390"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="813.79657"
-     y="330.86288"
+     x="396"
+     y="261.00003"
      font-size="20"
      id="text394"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="843.79657"
-     y="330.86288"
+     x="426"
+     y="261.00003"
      font-size="20"
      id="text398"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="1053.7966"
-     y="330.86288"
+     x="636.00006"
+     y="261.00003"
      font-size="20"
      id="text426"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="1083.7966"
-     y="330.86288"
+     x="666.00006"
+     y="261.00003"
      font-size="20"
      id="text430"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="1113.7966"
-     y="330.86288"
+     x="696.00006"
+     y="261.00003"
      font-size="20"
      id="text434"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="693.79657"
-     y="360.86288"
+     x="276"
+     y="291.00003"
      font-size="20"
      id="text522"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="723.79657"
-     y="360.86288"
+     x="306"
+     y="291.00003"
      font-size="20"
      id="text526"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="753.79657"
-     y="360.86288"
+     x="336"
+     y="291.00003"
      font-size="20"
      id="text530"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="963.79657"
-     y="360.86288"
+     x="546"
+     y="291.00003"
      font-size="20"
      id="text558"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="993.79657"
-     y="360.86288"
+     x="576"
+     y="291.00003"
      font-size="20"
      id="text562"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="1023.7966"
-     y="360.86288"
+     x="606"
+     y="291.00003"
      font-size="20"
      id="text566"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="693.79657"
-     y="390.86288"
+     x="276"
+     y="321.00003"
      font-size="20"
      id="text666"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="723.79657"
-     y="390.86288"
+     x="306"
+     y="321.00003"
      font-size="20"
      id="text670"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="753.79657"
-     y="390.86288"
+     x="336"
+     y="321.00003"
      font-size="20"
      id="text674"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="873.79657"
-     y="390.86288"
+     x="456"
+     y="321.00003"
      font-size="20"
      id="text690"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="903.79657"
-     y="390.86288"
+     x="486"
+     y="321.00003"
      font-size="20"
      id="text694"
      style="font-size:20px;font-family:Verdana" />
   <text
-     x="933.79657"
-     y="390.86288"
+     x="516"
+     y="321.00003"
      font-size="20"
      id="text698"
      style="font-size:20px;font-family:Verdana" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 419.06013,95.548896 c -60.42223,0 -60.42223,0 -60.42223,0"
-     id="path3927"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 418.45184,133.91584 c -60.42223,0 -60.42223,0 -60.42223,0"
-     id="path3927-6"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 418.32488,168.63573 c -36.76539,0 -36.76539,0 -36.76539,0"
-     id="path3927-7"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 418.32488,208.60738 c -36.03014,0 -36.03014,0 -36.03014,0"
-     id="path3927-5"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 384.13308,167.46867 c 0,42.59753 0,42.59753 0,42.59753"
-     id="path4011"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 361.33845,93.068896 c 0,42.597524 0,42.597524 0,42.597524"
-     id="path4011-3"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 360.97091,114.0759 c -36.76539,0 -36.76539,0 -36.76539,0"
-     id="path3927-7-5"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 384.56427,189.64273 c -60.42223,0 -60.42223,0 -60.42223,0"
-     id="path3927-62"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 326.77911,148.79579 c 0,42.59752 0,42.59752 0,42.59752"
-     id="path4011-3-9"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 326.77911,111.15826 c 0,42.59752 0,42.59752 0,42.59752"
-     id="path4011-3-1"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.46387291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 327.14681,154.04754 c -36.76542,0 -36.76542,0 -36.76542,0"
-     id="path3927-7-7"
-     inkscape:connector-curvature="0" />
-  <rect
-     x="351.12927"
-     y="103.78431"
-     width="19.31591"
-     height="19.994081"
-     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.98260349"
-     id="rect4-3" />
-  <text
-     x="359.69659"
-     y="116.74807"
-     font-size="30"
-     id="text6-6"
-     style="font-size:14.73905277px;font-family:Verdana"
-     transform="scale(0.98289439,1.0174033)">&amp;</text>
 </svg>

@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="122.00002"
+   width="1164.7468"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wrong_codons_and_tree.svg">
+  <metadata
+     id="metadata776">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs774" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1151"
+     id="namedview772"
+     showgrid="false"
+     inkscape:zoom="2.0853334"
+     inkscape:cx="112.30458"
+     inkscape:cy="143.0147"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <text
+     x="2.4296701"
+     y="-104.75447"
+     font-size="30"
+     id="text102"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="42.429668"
+     y="-104.75447"
+     font-size="30"
+     id="text106"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="442.42966"
+     y="-104.75447"
+     font-size="30"
+     id="text146"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="2.4296701"
+     y="-64.754471"
+     font-size="30"
+     id="text150"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="322.42966"
+     y="-64.754471"
+     font-size="30"
+     id="text182"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="362.42966"
+     y="-64.754471"
+     font-size="30"
+     id="text186"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="402.42966"
+     y="-64.754471"
+     font-size="30"
+     id="text190"
+     style="font-size:30px;font-family:Verdana" />
+  <text
+     x="442.42966"
+     y="-64.754471"
+     font-size="30"
+     id="text194"
+     style="font-size:30px;font-family:Verdana" />
+  <rect
+     x="83.746811"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect196" />
+  <text
+     x="88.746811"
+     y="21"
+     font-size="20"
+     id="text198"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="113.74681"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect200" />
+  <text
+     x="118.74681"
+     y="21"
+     font-size="20"
+     id="text202"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="143.74681"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect204" />
+  <text
+     x="148.74681"
+     y="21"
+     font-size="20"
+     id="text206"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="173.74681"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect208" />
+  <text
+     x="178.74681"
+     y="21"
+     font-size="20"
+     id="text210"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="203.74681"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect212" />
+  <text
+     x="208.74681"
+     y="21"
+     font-size="20"
+     id="text214"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="233.74681"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect216" />
+  <text
+     x="238.74681"
+     y="21"
+     font-size="20"
+     id="text218"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="263.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect220" />
+  <text
+     x="268.7468"
+     y="21"
+     font-size="20"
+     id="text222"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="293.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect224" />
+  <text
+     x="298.7468"
+     y="21"
+     font-size="20"
+     id="text226"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="323.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect228" />
+  <text
+     x="328.7468"
+     y="21"
+     font-size="20"
+     id="text230"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="353.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect232" />
+  <text
+     x="272.42966"
+     y="15.245529"
+     font-size="20"
+     id="text234"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="383.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect236" />
+  <text
+     x="302.42966"
+     y="15.245529"
+     font-size="20"
+     id="text238"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="413.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect240" />
+  <text
+     x="332.42966"
+     y="15.245529"
+     font-size="20"
+     id="text242"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="443.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect244" />
+  <text
+     x="448.7468"
+     y="21"
+     font-size="20"
+     id="text246"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="473.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect248" />
+  <text
+     x="478.7468"
+     y="21"
+     font-size="20"
+     id="text250"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="503.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect252" />
+  <text
+     x="508.7468"
+     y="21"
+     font-size="20"
+     id="text254"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="533.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect256" />
+  <text
+     x="538.74683"
+     y="21"
+     font-size="20"
+     id="text258"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="563.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect260" />
+  <text
+     x="568.74683"
+     y="21"
+     font-size="20"
+     id="text262"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="593.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect264" />
+  <text
+     x="598.74683"
+     y="21"
+     font-size="20"
+     id="text266"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="623.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect268" />
+  <text
+     x="628.74683"
+     y="21"
+     font-size="20"
+     id="text270"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="653.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect272" />
+  <text
+     x="658.74683"
+     y="21"
+     font-size="20"
+     id="text274"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="683.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect276" />
+  <text
+     x="688.74683"
+     y="21"
+     font-size="20"
+     id="text278"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="713.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect280" />
+  <text
+     x="718.74683"
+     y="21"
+     font-size="20"
+     id="text282"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="743.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect284" />
+  <text
+     x="748.74683"
+     y="21"
+     font-size="20"
+     id="text286"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="773.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect288" />
+  <text
+     x="778.74683"
+     y="21"
+     font-size="20"
+     id="text290"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="803.74677"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect292" />
+  <text
+     x="808.74677"
+     y="21"
+     font-size="20"
+     id="text294"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="833.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect296" />
+  <text
+     x="838.74683"
+     y="21"
+     font-size="20"
+     id="text298"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="863.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect300" />
+  <text
+     x="868.74683"
+     y="21"
+     font-size="20"
+     id="text302"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="893.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect304" />
+  <text
+     x="898.74683"
+     y="21"
+     font-size="20"
+     id="text306"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="923.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect308" />
+  <text
+     x="928.74683"
+     y="21"
+     font-size="20"
+     id="text310"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="953.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect312" />
+  <text
+     x="958.74683"
+     y="21"
+     font-size="20"
+     id="text314"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="983.74683"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect316" />
+  <text
+     x="988.74683"
+     y="21"
+     font-size="20"
+     id="text318"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="1013.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect320" />
+  <text
+     x="1018.7468"
+     y="21"
+     font-size="20"
+     id="text322"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="1043.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect324" />
+  <text
+     x="1048.7468"
+     y="21"
+     font-size="20"
+     id="text326"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="1073.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect328" />
+  <rect
+     x="1103.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect332" />
+  <rect
+     x="1133.7468"
+     y="1"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect336" />
+  <rect
+     x="83.746811"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect340" />
+  <text
+     x="88.746811"
+     y="51.000015"
+     font-size="20"
+     id="text342"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="113.74681"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect344" />
+  <text
+     x="118.74681"
+     y="51.000015"
+     font-size="20"
+     id="text346"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="143.74681"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect348" />
+  <text
+     x="148.74681"
+     y="51.000015"
+     font-size="20"
+     id="text350"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="173.74681"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect352" />
+  <text
+     x="178.74681"
+     y="51.000015"
+     font-size="20"
+     id="text354"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="203.74681"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect356" />
+  <text
+     x="208.74681"
+     y="51.000015"
+     font-size="20"
+     id="text358"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="233.74681"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect360" />
+  <text
+     x="238.74681"
+     y="51.000015"
+     font-size="20"
+     id="text362"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="263.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect364" />
+  <text
+     x="182.42967"
+     y="45.245529"
+     font-size="20"
+     id="text366"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="293.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect368" />
+  <text
+     x="212.42967"
+     y="45.245529"
+     font-size="20"
+     id="text370"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="323.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect372" />
+  <text
+     x="242.42967"
+     y="45.245529"
+     font-size="20"
+     id="text374"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="353.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect376" />
+  <text
+     x="358.7468"
+     y="51.000015"
+     font-size="20"
+     id="text378"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="383.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect380" />
+  <text
+     x="388.7468"
+     y="51.000015"
+     font-size="20"
+     id="text382"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="413.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect384" />
+  <text
+     x="418.7468"
+     y="51.000015"
+     font-size="20"
+     id="text386"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="443.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect388" />
+  <text
+     x="362.42966"
+     y="45.245529"
+     font-size="20"
+     id="text390"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="473.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect392" />
+  <text
+     x="392.42966"
+     y="45.245529"
+     font-size="20"
+     id="text394"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="503.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect396" />
+  <text
+     x="422.42966"
+     y="45.245529"
+     font-size="20"
+     id="text398"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="533.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect400" />
+  <text
+     x="538.74683"
+     y="51.000015"
+     font-size="20"
+     id="text402"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="563.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect404" />
+  <text
+     x="568.74683"
+     y="51.000015"
+     font-size="20"
+     id="text406"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="593.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect408" />
+  <text
+     x="598.74683"
+     y="51.000015"
+     font-size="20"
+     id="text410"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="623.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect412" />
+  <text
+     x="628.74683"
+     y="51.000015"
+     font-size="20"
+     id="text414"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="653.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect416" />
+  <text
+     x="658.74683"
+     y="51.000015"
+     font-size="20"
+     id="text418"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="683.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect420" />
+  <text
+     x="688.74683"
+     y="51.000015"
+     font-size="20"
+     id="text422"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="713.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect424" />
+  <text
+     x="632.42969"
+     y="45.245529"
+     font-size="20"
+     id="text426"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="743.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect428" />
+  <text
+     x="662.42969"
+     y="45.245529"
+     font-size="20"
+     id="text430"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="773.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect432" />
+  <text
+     x="692.42969"
+     y="45.245529"
+     font-size="20"
+     id="text434"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="803.74677"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect436" />
+  <text
+     x="808.74677"
+     y="51.000015"
+     font-size="20"
+     id="text438"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="833.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect440" />
+  <text
+     x="838.74683"
+     y="51.000015"
+     font-size="20"
+     id="text442"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="863.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect444" />
+  <text
+     x="868.74683"
+     y="51.000015"
+     font-size="20"
+     id="text446"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="893.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect448" />
+  <text
+     x="898.74683"
+     y="51.000015"
+     font-size="20"
+     id="text450"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="923.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect452" />
+  <text
+     x="928.74683"
+     y="51.000015"
+     font-size="20"
+     id="text454"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="953.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect456" />
+  <text
+     x="958.74683"
+     y="51.000015"
+     font-size="20"
+     id="text458"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="983.74683"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect460" />
+  <text
+     x="988.74683"
+     y="51.000015"
+     font-size="20"
+     id="text462"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="1013.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect464" />
+  <text
+     x="1018.7468"
+     y="51.000015"
+     font-size="20"
+     id="text466"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="1043.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect468" />
+  <text
+     x="1048.7468"
+     y="51.000015"
+     font-size="20"
+     id="text470"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="1073.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect472" />
+  <text
+     x="1078.7468"
+     y="51.000015"
+     font-size="20"
+     id="text474"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="1103.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect476" />
+  <text
+     x="1108.7468"
+     y="51.000015"
+     font-size="20"
+     id="text478"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="1133.7468"
+     y="31.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect480" />
+  <text
+     x="1138.7468"
+     y="51.000015"
+     font-size="20"
+     id="text482"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="83.746811"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect484" />
+  <rect
+     x="113.74681"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect488" />
+  <rect
+     x="143.74681"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect492" />
+  <rect
+     x="173.74681"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect496" />
+  <rect
+     x="203.74681"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect500" />
+  <rect
+     x="233.74681"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect504" />
+  <rect
+     x="263.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect508" />
+  <text
+     x="90.837593"
+     y="83.397713"
+     font-size="20"
+     id="text510"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="293.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect512" />
+  <text
+     x="120.83759"
+     y="83.397713"
+     font-size="20"
+     id="text514"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="323.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect516" />
+  <text
+     x="150.8376"
+     y="83.397713"
+     font-size="20"
+     id="text518"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="353.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect520" />
+  <text
+     x="272.42966"
+     y="75.245529"
+     font-size="20"
+     id="text522"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="383.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect524" />
+  <text
+     x="302.42966"
+     y="75.245529"
+     font-size="20"
+     id="text526"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="413.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect528" />
+  <text
+     x="332.42966"
+     y="75.245529"
+     font-size="20"
+     id="text530"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="443.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect532" />
+  <text
+     x="270.83759"
+     y="83.397713"
+     font-size="20"
+     id="text534"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="473.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect536" />
+  <text
+     x="300.83759"
+     y="83.397713"
+     font-size="20"
+     id="text538"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="503.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect540" />
+  <text
+     x="330.83759"
+     y="83.397713"
+     font-size="20"
+     id="text542"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="533.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect544" />
+  <text
+     x="360.83762"
+     y="83.397713"
+     font-size="20"
+     id="text546"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="563.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect548" />
+  <text
+     x="390.83762"
+     y="83.397713"
+     font-size="20"
+     id="text550"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="593.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect552" />
+  <text
+     x="420.83762"
+     y="83.397713"
+     font-size="20"
+     id="text554"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="623.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect556" />
+  <text
+     x="542.42969"
+     y="75.245529"
+     font-size="20"
+     id="text558"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="653.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect560" />
+  <text
+     x="572.42969"
+     y="75.245529"
+     font-size="20"
+     id="text562"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="683.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect564" />
+  <text
+     x="602.42969"
+     y="75.245529"
+     font-size="20"
+     id="text566"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="713.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect568" />
+  <text
+     x="540.83765"
+     y="83.397713"
+     font-size="20"
+     id="text570"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="743.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect572" />
+  <text
+     x="570.83765"
+     y="83.397713"
+     font-size="20"
+     id="text574"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="773.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect576" />
+  <text
+     x="600.83765"
+     y="83.397713"
+     font-size="20"
+     id="text578"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="803.74677"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect580" />
+  <text
+     x="630.83759"
+     y="83.397713"
+     font-size="20"
+     id="text582"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="833.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect584" />
+  <text
+     x="660.83765"
+     y="83.397713"
+     font-size="20"
+     id="text586"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="863.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect588" />
+  <text
+     x="690.83765"
+     y="83.397713"
+     font-size="20"
+     id="text590"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="893.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect592" />
+  <text
+     x="720.83765"
+     y="83.397713"
+     font-size="20"
+     id="text594"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="923.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect596" />
+  <text
+     x="750.83765"
+     y="83.397713"
+     font-size="20"
+     id="text598"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="953.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect600" />
+  <text
+     x="780.83765"
+     y="83.397713"
+     font-size="20"
+     id="text602"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="983.74683"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect604" />
+  <text
+     x="810.83765"
+     y="83.397713"
+     font-size="20"
+     id="text606"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="1013.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect608" />
+  <text
+     x="840.83765"
+     y="83.397713"
+     font-size="20"
+     id="text610"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="1043.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect612" />
+  <text
+     x="870.83765"
+     y="83.397713"
+     font-size="20"
+     id="text614"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="1073.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect616" />
+  <rect
+     x="1103.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect620" />
+  <rect
+     x="1133.7468"
+     y="61.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect624" />
+  <rect
+     x="83.746811"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect628" />
+  <rect
+     x="113.74681"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect632" />
+  <rect
+     x="143.74681"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect636" />
+  <rect
+     x="173.74681"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect640" />
+  <text
+     x="90.991058"
+     y="112.43864"
+     font-size="20"
+     id="text642"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="203.74681"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect644" />
+  <text
+     x="120.99106"
+     y="112.43864"
+     font-size="20"
+     id="text646"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="233.74681"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect648" />
+  <text
+     x="150.99106"
+     y="112.43864"
+     font-size="20"
+     id="text650"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="263.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect652" />
+  <text
+     x="180.99104"
+     y="112.43864"
+     font-size="20"
+     id="text654"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="293.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect656" />
+  <text
+     x="210.99104"
+     y="112.43864"
+     font-size="20"
+     id="text658"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="323.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect660" />
+  <text
+     x="240.99104"
+     y="112.43864"
+     font-size="20"
+     id="text662"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="353.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect664" />
+  <text
+     x="272.42966"
+     y="105.24553"
+     font-size="20"
+     id="text666"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="383.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect668" />
+  <text
+     x="302.42966"
+     y="105.24553"
+     font-size="20"
+     id="text670"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="413.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect672" />
+  <text
+     x="332.42966"
+     y="105.24553"
+     font-size="20"
+     id="text674"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="443.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect676" />
+  <text
+     x="360.99106"
+     y="112.43864"
+     font-size="20"
+     id="text678"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="473.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect680" />
+  <text
+     x="390.99106"
+     y="112.43864"
+     font-size="20"
+     id="text682"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="503.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect684" />
+  <text
+     x="420.99106"
+     y="112.43864"
+     font-size="20"
+     id="text686"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="533.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect688" />
+  <text
+     x="452.42966"
+     y="105.24553"
+     font-size="20"
+     id="text690"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="563.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect692" />
+  <text
+     x="482.42966"
+     y="105.24553"
+     font-size="20"
+     id="text694"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="593.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect696" />
+  <text
+     x="512.42969"
+     y="105.24553"
+     font-size="20"
+     id="text698"
+     style="font-size:20px;font-family:Verdana" />
+  <rect
+     x="623.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect700" />
+  <text
+     x="540.99109"
+     y="112.43864"
+     font-size="20"
+     id="text702"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="653.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect704" />
+  <text
+     x="570.99109"
+     y="112.43864"
+     font-size="20"
+     id="text706"
+     style="font-size:20px;font-family:Verdana">G</text>
+  <rect
+     x="683.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect708" />
+  <text
+     x="600.99109"
+     y="112.43864"
+     font-size="20"
+     id="text710"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="713.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect712" />
+  <text
+     x="630.99109"
+     y="112.43864"
+     font-size="20"
+     id="text714"
+     style="font-size:20px;font-family:Verdana">T</text>
+  <rect
+     x="743.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect716" />
+  <text
+     x="660.99109"
+     y="112.43864"
+     font-size="20"
+     id="text718"
+     style="font-size:20px;font-family:Verdana">A</text>
+  <rect
+     x="773.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect720" />
+  <text
+     x="690.99109"
+     y="112.43864"
+     font-size="20"
+     id="text722"
+     style="font-size:20px;font-family:Verdana">C</text>
+  <rect
+     x="803.74677"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect724" />
+  <rect
+     x="833.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect728" />
+  <rect
+     x="863.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect732" />
+  <rect
+     x="893.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect736" />
+  <rect
+     x="923.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect740" />
+  <rect
+     x="953.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect744" />
+  <rect
+     x="983.74683"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect748" />
+  <rect
+     x="1013.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect752" />
+  <rect
+     x="1043.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect756" />
+  <rect
+     x="1073.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect760" />
+  <rect
+     x="1103.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect764" />
+  <rect
+     x="1133.7468"
+     y="91.000015"
+     width="30"
+     height="30"
+     style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:2"
+     id="rect768" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 83.91944,15.765029 c -39.4051,0 -39.4051,0 -39.4051,0"
+     id="path3927"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 83.52274,47.294759 c -39.40509,0 -39.40509,0 -39.40509,0"
+     id="path3927-6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 83.4399,75.827369 c -23.97699,0 -23.97699,0 -23.97699,0"
+     id="path3927-7"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 83.4399,108.67584 c -23.49745,0 -23.49745,0 -23.49745,0"
+     id="path3927-5"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 61.14131,74.868289 c 0,35.006401 0,35.006401 0,35.006401"
+     id="path4011"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 46.27557,13.726979 c 0,35.0064 0,35.0064 0,35.0064"
+     id="path4011-3"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 46.03581,30.990409 c -23.97699,0 -23.97699,0 -23.97699,0"
+     id="path3927-7-5"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 61.4225,93.090799 c -39.4051,0 -39.4051,0 -39.4051,0"
+     id="path3927-62"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.73722,59.523019 c 0,35.0064 0,35.0064 0,35.0064"
+     id="path4011-3-9"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.73722,28.592709 c 0,35.0064 0,35.0064 0,35.0064"
+     id="path4011-3-1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 23.97699,63.838879 C 0,63.838879 0,63.838879 0,63.838879"
+     id="path3927-7-7"
+     inkscape:connector-curvature="0" />
+</svg>
