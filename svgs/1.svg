@@ -1,0 +1,386 @@
+<svg height="500" width="1500">
+  <rect x="195" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="50" font-family="Verdana" font-size="30">T</text>
+  <rect x="235" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="240" y="50" font-family="Verdana" font-size="30">h</text>
+  <rect x="275" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="280" y="50" font-family="Verdana" font-size="30">e</text>
+  <rect x="315" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="50" font-family="Verdana" font-size="30">o</text>
+  <rect x="355" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="360" y="50" font-family="Verdana" font-size="30">r</text>
+  <rect x="395" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="400" y="50" font-family="Verdana" font-size="30">e</text>
+  <rect x="435" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="50" font-family="Verdana" font-size="30">t</text>
+  <rect x="475" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="480" y="50" font-family="Verdana" font-size="30">i</text>
+  <rect x="515" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="520" y="50" font-family="Verdana" font-size="30">c</text>
+  <rect x="555" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="50" font-family="Verdana" font-size="30">a</text>
+  <rect x="595" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="600" y="50" font-family="Verdana" font-size="30">l</text>
+  <rect x="635" y="20" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="640" y="50" font-family="Verdana" font-size="30">y</text>
+  <rect x="195" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="90" font-family="Verdana" font-size="30">E</text>
+  <rect x="235" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="240" y="90" font-family="Verdana" font-size="30">v</text>
+  <rect x="275" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="280" y="90" font-family="Verdana" font-size="30">o</text>
+  <rect x="315" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="90" font-family="Verdana" font-size="30">l</text>
+  <rect x="355" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="360" y="90" font-family="Verdana" font-size="30">u</text>
+  <rect x="395" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="400" y="90" font-family="Verdana" font-size="30">t</text>
+  <rect x="435" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="90" font-family="Verdana" font-size="30">i</text>
+  <rect x="475" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="480" y="90" font-family="Verdana" font-size="30">o</text>
+  <rect x="515" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="520" y="90" font-family="Verdana" font-size="30">n</text>
+  <rect x="555" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="90" font-family="Verdana" font-size="30">a</text>
+  <rect x="595" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="600" y="90" font-family="Verdana" font-size="30">r</text>
+  <rect x="635" y="60" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="640" y="90" font-family="Verdana" font-size="30">y</text>
+  <rect x="195" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="130" font-family="Verdana" font-size="30"> </text>
+  <rect x="235" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="240" y="130" font-family="Verdana" font-size="30"> </text>
+  <rect x="275" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="280" y="130" font-family="Verdana" font-size="30">C</text>
+  <rect x="315" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="130" font-family="Verdana" font-size="30">o</text>
+  <rect x="355" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="360" y="130" font-family="Verdana" font-size="30">m</text>
+  <rect x="395" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="400" y="130" font-family="Verdana" font-size="30">m</text>
+  <rect x="435" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="130" font-family="Verdana" font-size="30">u</text>
+  <rect x="475" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="480" y="130" font-family="Verdana" font-size="30">n</text>
+  <rect x="515" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="520" y="130" font-family="Verdana" font-size="30">i</text>
+  <rect x="555" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="130" font-family="Verdana" font-size="30">t</text>
+  <rect x="595" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="600" y="130" font-family="Verdana" font-size="30">y</text>
+  <rect x="635" y="100" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="640" y="130" font-family="Verdana" font-size="30"> </text>
+  <rect x="195" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="170" font-family="Verdana" font-size="30"> </text>
+  <rect x="235" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="240" y="170" font-family="Verdana" font-size="30">E</text>
+  <rect x="275" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="280" y="170" font-family="Verdana" font-size="30">c</text>
+  <rect x="315" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="170" font-family="Verdana" font-size="30">o</text>
+  <rect x="355" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="360" y="170" font-family="Verdana" font-size="30">l</text>
+  <rect x="395" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="400" y="170" font-family="Verdana" font-size="30">o</text>
+  <rect x="435" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="170" font-family="Verdana" font-size="30">g</text>
+  <rect x="475" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="480" y="170" font-family="Verdana" font-size="30">y</text>
+  <rect x="515" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="520" y="170" font-family="Verdana" font-size="30"> </text>
+  <rect x="555" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="170" font-family="Verdana" font-size="30"> </text>
+  <rect x="595" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="600" y="170" font-family="Verdana" font-size="30"> </text>
+  <rect x="635" y="140" width="40" height="40"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="640" y="170" font-family="Verdana" font-size="30"> </text>
+  <rect x="195" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="225" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="230" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="255" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="260" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="285" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="290" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="315" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="345" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="350" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="375" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="380" y="250" font-family="Verdana" font-size="20">G</text>
+  <rect x="405" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="410" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="435" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="465" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="470" y="250" font-family="Verdana" font-size="20"> </text>
+  <rect x="495" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="500" y="250" font-family="Verdana" font-size="20"> </text>
+  <rect x="525" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="530" y="250" font-family="Verdana" font-size="20"> </text>
+  <rect x="555" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="585" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="590" y="250" font-family="Verdana" font-size="20">G</text>
+  <rect x="615" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="620" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="645" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="650" y="250" font-family="Verdana" font-size="20">G</text>
+  <rect x="675" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="680" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="705" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="710" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="735" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="740" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="765" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="770" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="795" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="800" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="825" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="830" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="855" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="860" y="250" font-family="Verdana" font-size="20">T</text>
+  <rect x="885" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="890" y="250" font-family="Verdana" font-size="20">T</text>
+  <rect x="915" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="920" y="250" font-family="Verdana" font-size="20">T</text>
+  <rect x="945" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="950" y="250" font-family="Verdana" font-size="20">G</text>
+  <rect x="975" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="980" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="1005" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1010" y="250" font-family="Verdana" font-size="20">G</text>
+  <rect x="1035" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1040" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="1065" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1070" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="1095" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1100" y="250" font-family="Verdana" font-size="20">T</text>
+  <rect x="1125" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1130" y="250" font-family="Verdana" font-size="20">T</text>
+  <rect x="1155" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1160" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="1185" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1190" y="250" font-family="Verdana" font-size="20">T</text>
+  <rect x="1215" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1220" y="250" font-family="Verdana" font-size="20">A</text>
+  <rect x="1245" y="230" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1250" y="250" font-family="Verdana" font-size="20">C</text>
+  <rect x="195" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="280" font-family="Verdana" font-size="20">G</text>
+  <rect x="225" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="230" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="255" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="260" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="285" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="290" y="280" font-family="Verdana" font-size="20">G</text>
+  <rect x="315" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="280" font-family="Verdana" font-size="20">T</text>
+  <rect x="345" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="350" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="375" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="380" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="405" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="410" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="435" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="465" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="470" y="280" font-family="Verdana" font-size="20">T</text>
+  <rect x="495" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="500" y="280" font-family="Verdana" font-size="20">T</text>
+  <rect x="525" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="530" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="555" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="585" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="590" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="615" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="620" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="645" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="650" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="675" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="680" y="280" font-family="Verdana" font-size="20">C</text>
+  <rect x="705" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="710" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="735" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="740" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="765" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="770" y="280" font-family="Verdana" font-size="20">T</text>
+  <rect x="795" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="800" y="280" font-family="Verdana" font-size="20">T</text>
+  <rect x="825" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="830" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="855" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="860" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="885" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="890" y="280" font-family="Verdana" font-size="20"> </text>
+  <rect x="915" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="920" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="945" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="950" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="975" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="980" y="280" font-family="Verdana" font-size="20">C</text>
+  <rect x="1005" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1010" y="280" font-family="Verdana" font-size="20">G</text>
+  <rect x="1035" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1040" y="280" font-family="Verdana" font-size="20">C</text>
+  <rect x="1065" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1070" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="1095" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1100" y="280" font-family="Verdana" font-size="20">C</text>
+  <rect x="1125" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1130" y="280" font-family="Verdana" font-size="20">G</text>
+  <rect x="1155" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1160" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="1185" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1190" y="280" font-family="Verdana" font-size="20">T</text>
+  <rect x="1215" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1220" y="280" font-family="Verdana" font-size="20">A</text>
+  <rect x="1245" y="260" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1250" y="280" font-family="Verdana" font-size="20">C</text>
+  <rect x="195" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="225" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="230" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="255" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="260" y="310" font-family="Verdana" font-size="20">G</text>
+  <rect x="285" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="290" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="315" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="345" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="350" y="310" font-family="Verdana" font-size="20">G</text>
+  <rect x="375" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="380" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="405" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="410" y="310" font-family="Verdana" font-size="20">G</text>
+  <rect x="435" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="310" font-family="Verdana" font-size="20">C</text>
+  <rect x="465" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="470" y="310" font-family="Verdana" font-size="20"> </text>
+  <rect x="495" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="500" y="310" font-family="Verdana" font-size="20"> </text>
+  <rect x="525" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="530" y="310" font-family="Verdana" font-size="20"> </text>
+  <rect x="555" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="585" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="590" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="615" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="620" y="310" font-family="Verdana" font-size="20">G</text>
+  <rect x="645" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="650" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="675" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="680" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="705" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="710" y="310" font-family="Verdana" font-size="20">G</text>
+  <rect x="735" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="740" y="310" font-family="Verdana" font-size="20"> </text>
+  <rect x="765" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="770" y="310" font-family="Verdana" font-size="20"> </text>
+  <rect x="795" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="800" y="310" font-family="Verdana" font-size="20"> </text>
+  <rect x="825" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="830" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="855" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="860" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="885" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="890" y="310" font-family="Verdana" font-size="20">C</text>
+  <rect x="915" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="920" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="945" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="950" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="975" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="980" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="1005" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1010" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="1035" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1040" y="310" font-family="Verdana" font-size="20">C</text>
+  <rect x="1065" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1070" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="1095" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1100" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="1125" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1130" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="1155" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1160" y="310" font-family="Verdana" font-size="20">C</text>
+  <rect x="1185" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1190" y="310" font-family="Verdana" font-size="20">A</text>
+  <rect x="1215" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1220" y="310" font-family="Verdana" font-size="20">T</text>
+  <rect x="1245" y="290" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1250" y="310" font-family="Verdana" font-size="20">G</text>
+  <rect x="195" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="200" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="225" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="230" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="255" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="260" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="285" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="290" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="315" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="320" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="345" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="350" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="375" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="380" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="405" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="410" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="435" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="440" y="340" font-family="Verdana" font-size="20">C</text>
+  <rect x="465" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="470" y="340" font-family="Verdana" font-size="20"> </text>
+  <rect x="495" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="500" y="340" font-family="Verdana" font-size="20"> </text>
+  <rect x="525" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="530" y="340" font-family="Verdana" font-size="20"> </text>
+  <rect x="555" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="560" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="585" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="590" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="615" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="620" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="645" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="650" y="340" font-family="Verdana" font-size="20"> </text>
+  <rect x="675" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="680" y="340" font-family="Verdana" font-size="20"> </text>
+  <rect x="705" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="710" y="340" font-family="Verdana" font-size="20"> </text>
+  <rect x="735" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="740" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="765" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="770" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="795" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="800" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="825" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="830" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="855" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="860" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="885" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="890" y="340" font-family="Verdana" font-size="20">C</text>
+  <rect x="915" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="920" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="945" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="950" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="975" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="980" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="1005" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1010" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="1035" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1040" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="1065" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1070" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="1095" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1100" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="1125" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1130" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="1155" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1160" y="340" font-family="Verdana" font-size="20">G</text>
+  <rect x="1185" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1190" y="340" font-family="Verdana" font-size="20">A</text>
+  <rect x="1215" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1220" y="340" font-family="Verdana" font-size="20">T</text>
+  <rect x="1245" y="320" width="30" height="30"  style="fill:white;stroke:black;stroke-width:2;opacity:1" />
+  <text x="1250" y="340" font-family="Verdana" font-size="20">G</text>
+</svg>
