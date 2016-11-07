@@ -2,7 +2,7 @@
 
 Proposed logos for the TECE group
 
- * [My presentation about my proposed TECE logo](tece_logo.odp)
+ * My presentation about my proposed TECE logo [ODP](tece_logo.odp) [PDF](tece_logo.pdf)
 
 ## Logo 1
 
